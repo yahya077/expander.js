@@ -1,0 +1,22 @@
+{
+  "name": "expander",
+  "version": "1.0.0",
+  "description": "Simple html item expander",
+  "main": "dist/expander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahya077/expander.js.git"
+  },
+  "keywords": [
+    "expander"
+  ],
+  "author": "Yahya Hindioglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yahya077/expander.js/issues"
+  },
+  "homepage": "https://github.com/yahya077/expander.js#readme"
+}
