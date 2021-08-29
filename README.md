@@ -80,7 +80,6 @@ npm install expander.js
 
 | Option | Type | Description |
 | --- | --- | --- |
-| `show` | Node \| String | Default: `'.slider'`. <br> The slider container element or selector. |
 | `show` | Number | Default: 4. <br> Number of items initially shown. |
 | `increase` | Number | Default: 3. <br> Number of items to add per click. |
 | `decrease` | Number | Default: 3. <br> Number of items to remove per click, <br> if it is zero it will use increase variable. |
