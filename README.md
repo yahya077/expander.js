@@ -38,7 +38,14 @@ I welcome suggestions for changes that will bring it closer to compliance withou
 
 ## Install
 
-npm install expander.js
+```npm install expander.js``` or ```yarn add expander.js```
+### Module option: Import via webpack or rollup:
+
+```javascript
+import Expander from "expander.js/src/index";
+
+window.Expander = Expander
+```
 
 ## Usage
 
